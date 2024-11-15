@@ -5,7 +5,7 @@ import illustration from "@/app/assets/Illustration.png";
 export default function HeroSection() {
   return (
     <section
-      className="flex flex-col lg:flex-row items-center justify-center px-8 lg:px-36 py-24 gap-12 bg-[#F5F7FA] w-full overflow-x-hidden"
+      className="flex lg:flex-row items-center justify-center px-8 lg:px-36 py-24 gap-12 bg-[#F5F7FA] w-full overflow-x-hidden"
       style={{
         margin: 0, // Supprime toutes les marges par défaut
       }}
