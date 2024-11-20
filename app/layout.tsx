@@ -2,7 +2,7 @@ import './styles/globals.css';
 
 export const metadata = {
   title: 'Nexcent',
-  description: 'Nexcent Website',
+  description: 'Nexcent',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
