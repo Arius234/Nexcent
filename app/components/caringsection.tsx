@@ -12,9 +12,10 @@ const CaringSection = () => {
         Caring is the new marketing
       </h2>
       <p className="text-[16px] font-normal leading-[24px] text-[#717171] text-center max-w-[628px]">
-        The Nexcent blog is the best place to read about the latest membership insights, trends and more. See who's
-        joining the community, read about how our community are increasing their membership income and lot's more.
-      </p>
+  The Nexcent blog is the best place to read about the latest membership insights, trends and more. See who&rsquo;s
+  joining the community, read about how our community are increasing their membership income and lot&rsquo;s more.
+</p>
+
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 w-full">
         <div className="relative">
           <div className="w-full h-[200px] lg:h-[286px] overflow-hidden rounded-lg">
